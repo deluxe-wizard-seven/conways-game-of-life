@@ -1,4 +1,4 @@
-# Flappy Plane Game
+# Conway's Game of Life
 
 ### Project Description
 
